@@ -81,7 +81,7 @@ export default async function (req: VercelRequest, res: VercelResponse) {
         <meta property="fc:frame:button:1" content="Mint this nounish NFT (this is a test)" />
         <meta
           name="fc:frame:post_url"
-          content="https://syndicate-farcaster-frame-starter.vercel.app/api/syndicate-farcaster-frame-starter"
+          content="https://syndicate-nounish.vercel.app/api/syndicate-farcaster-frame-starter"
         />
       </head>
     </html>
