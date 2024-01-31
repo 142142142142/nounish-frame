@@ -68,17 +68,17 @@ export default async function (req: VercelRequest, res: VercelResponse) {
       <head>
         <meta charset="utf-8" />
         <meta name="viewport" content="width=device-width" />
-        <meta property="og:title" content="Mint your commemorative NFT for the launch of Syndicate's Frame API!" />
+        <meta property="og:title" content="Mint this nounish NFT (this is a test)" />
         <meta
           property="og:image"
-          content="https://syndicate-farcaster-frame-starter.vercel.app/img/example-frame-farcaster-cropped.png"
+          content="https://uploads-ssl.webflow.com/63a855da0bd1f482872555dc/63b0788d6c21e62c6afbf017_GlassesForKids_Loop_v04.gif"
         />
         <meta property="fc:frame" content="vNext" />
         <meta
           property="fc:frame:image"
-          content="https://syndicate-farcaster-frame-starter.vercel.app/img/example-frame-farcaster-cropped.png"
+          content="https://uploads-ssl.webflow.com/63a855da0bd1f482872555dc/63b0788d6c21e62c6afbf017_GlassesForKids_Loop_v04.gif"
         />
-        <meta property="fc:frame:button:1" content="Mint your commemorative frame.syndicate.io NFT!" />
+        <meta property="fc:frame:button:1" content="Mint this nounish NFT (this is a test)" />
         <meta
           name="fc:frame:post_url"
           content="https://syndicate-farcaster-frame-starter.vercel.app/api/syndicate-farcaster-frame-starter"
